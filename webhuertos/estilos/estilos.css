@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    border: 10px solid rgb(14, 240, 52);
+    padding: 10px;
+    position: static;
+    background-color: bisque;
+    
+}
+
+#general {
+    display: inline;
+}
+
+div.imagen {
+    width: 50%;
+    margin-left: 10px;
+}
+
+#im1 {
+    width: 100px;
+}
+
+div.ref {
+    border: 1px solid rgb(21, 255, 0);
+    margin-left: 1350px;
+    background-color: antiquewhite;
+}
+
+#contenedor {
+    border: 10px solid greenyellow;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.imacuerpo {
+    width: 1000%;
+    margin-left: 650px;
+
+}
+
+#im2 {
+    width: 500px;
+
+    height: 150px;
+}
+
+#cuadroimagen{
+background-color: rgb(76, 177, 63);
+}
+#cuadroimagen{
+    margin-top:30px;
+    padding: 3px;
+}
+.imag{
+    display: inline;
+    width: 350px;
+    height: 200px; 
+    margin:50px;   
+}
+#caja1{
+    display: inline;
+}
+#caja2{
+    display: inline;
+}
+#caja3{
+    display: inline;
+}
+#caja4{
+    display: inline;
+}
+#pie {
+    position: relative;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    top: 40px;
+    text-align: center;
+}
